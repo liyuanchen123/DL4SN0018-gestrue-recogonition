@@ -5,4 +5,3 @@ To use the models, after installing all needed libraries, run "gestureCV" that i
   account: liyc0929@yeah.net  
   password: liyuanchen929
 
-## Aruduino library
